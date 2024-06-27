@@ -1,4 +1,4 @@
-# CampusPlacement
+# Campus Placement
 
 ## Overview
 This project aims to predict student placement status using various machine learning models. The dataset includes student academic performance and other related features. The primary goal is to build and evaluate different classification models to identify the most effective one for predicting whether a student will be placed or not.
@@ -10,7 +10,7 @@ Features include gender, education percentages, boards, specializations, work ex
 - Logistic Regression
 - Random Forest
 - Support Vector Machine (SVM)
-- k-Nearest Neighbors (k-NN)
+- k-Nearest Neighbour (KNN)
 - Gradient Boosting
 
 ## Conclusion
